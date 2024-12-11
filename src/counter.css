@@ -19,3 +19,14 @@ button{
 }
 
 
+
+
+.btn_container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+

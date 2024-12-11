@@ -40,9 +40,13 @@ class Counter extends React.Component{
             <br />
             <br />
             <br />
-            <button onClick={this.Increment.bind(this)}>Increment</button>
-            &nbsp;&nbsp;&nbsp;&nbsp;
+
+            <div className="btn_container">
+            <button id="btn1" onClick={this.Increment.bind(this)}>Increment</button>
+            
             <button onClick={this.Decrement.bind(this)}>Decrement</button>
+            </div>
+       
           </center>
            
         </div>
