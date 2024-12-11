@@ -1,0 +1,21 @@
+*{
+    background-color: #99f2c8;
+    margin: 0;
+   
+}
+
+.container{
+   color:#f12711;
+}
+
+button{
+    width:200px;
+    height:60px;
+    background-color: rgb(86, 86, 213);
+    cursor: pointer;
+    color:white;
+    font-size: 1.5rem;
+    border: none;
+}
+
+
